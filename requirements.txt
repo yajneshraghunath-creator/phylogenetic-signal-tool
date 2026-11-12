@@ -1,0 +1,6 @@
+streamlit>=1.50
+biopython>=1.83
+numpy
+pandas
+matplotlib
+plotly
